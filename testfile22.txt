@@ -1,1 +1,2 @@
 hello this is the test file inot the folder
+i'm practicing stash which is used to edit any file without doing commit then and want to change the branch then stash is used which secretly store the changes without committing it
